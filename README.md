@@ -15,16 +15,20 @@
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)
+
 
 ## Projetos Destacados
 
 - [Desafio Sistema Bancário](https://github.com/Jaquelinesf2/desafio_sistema_bancario): Sistema bancário desenvolvido em Python.
 - [Cadastro](https://github.com/Jaquelinesf2/cadastro): Página de login e cadastro simples utilizando HTML, CSS e JavaScript.
 - [Calculadora](https://github.com/Jaquelinesf2/calculadora): Calculadora simples desenvolvida em Python.
-
-## Linguagens mais usadas
-  ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaquelinesf2&layout=compact&theme=dracula)
-
 
 ## Contato
 
