@@ -22,6 +22,10 @@
 - [Cadastro](https://github.com/Jaquelinesf2/cadastro): Página de login e cadastro simples utilizando HTML, CSS e JavaScript.
 - [Calculadora](https://github.com/Jaquelinesf2/calculadora): Calculadora simples desenvolvida em Python.
 
+## Linguagens mais usadas
+  ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaquelinesf2&layout=compact&theme=dracula)
+
+
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/jaqueline-da-silva-freitas-48b1b3169/)
