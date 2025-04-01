@@ -1,9 +1,9 @@
-# Olá! Eu sou a Jaqueline Silva 👋
+# Olá! Seja bem vindo!! Meu nome é Jaqueline Silva 👋
 
 ## Sobre mim
 
-- 🎓 Estudante de Engenharia de Software em São Paulo.
-- 💻 Apaixonada por desenvolvimento backend com Python.
+- 🎓 Estudante de Engenharia de Software na UNINTER.
+- 💻 Apaixonada por desenvolvimento backend com Python e Javascript.
 - 📚 Atualmente aprendendo FastAPI, PostgreSQL e Docker.
 - 🎯 Buscando oportunidades para aplicar meus conhecimentos em projetos desafiadores.
 
@@ -22,11 +22,7 @@
 - [Cadastro](https://github.com/Jaquelinesf2/cadastro): Página de login e cadastro simples utilizando HTML, CSS e JavaScript.
 - [Calculadora](https://github.com/Jaquelinesf2/calculadora): Calculadora simples desenvolvida em Python.
 
-## Estatísticas do GitHub
-
-![Estatísticas do GitHub de Jaqueline](https://github-readme-stats.vercel.app/api?username=Jaquelinesf2&show_icons=true&theme=dracula)
-
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/jaquelinesilva)
-[![E-mail](https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail)](mailto:jaqueline.silva@email.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/jaqueline-da-silva-freitas-48b1b3169/)
+[![E-mail](https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail)](mailto:jaquelinesf2@gmail.com)
